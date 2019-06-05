@@ -4,7 +4,7 @@ The goal of this assignment is to demonstrate your ability to capture unconventi
 
 # Solution details
 
-Environment Python 3.7.3 adn BeautifulSoup4 on Windows10 Home Edition
+Environment Python 3.7.3 and BeautifulSoup4 on Windows10 Home Edition
 This project contains one source file named WikiStatesProject.py. 
 
 # File Information
